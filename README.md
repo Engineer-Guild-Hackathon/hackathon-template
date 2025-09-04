@@ -1,2 +1,17 @@
-# hackathon-template
-Engineer Guild Hackathon9月のレポジトリテンプレート
+# Engineer Guild Hackathon リポジトリテンプレート
+
+このリポジトリはハッカソン提出用の雛形です。以下の項目をすべて埋めてください。
+
+---
+
+## チーム情報
+- チーム番号
+- チーム名: （ここに記入）
+- プロダクト名: （ここに記入）
+- メンバー: （GitHubアカウントまたは名前を列挙）
+
+---
+
+## デモ　/ プレゼン資料
+- デモURL: （Vercel / Netlify / Render / GitHub Pages など）
+- プレゼンURL：
