@@ -13,5 +13,5 @@
 ---
 
 ## デモ　/ プレゼン資料
-- デモURL: （Vercel / Netlify / Render / GitHub Pages など）
+- デモURL: 
 - プレゼンURL：
